@@ -1,4 +1,4 @@
-# Conversor de Monedas y Pesos Inter-planetario
+# Conversor de Monedas y Peso Inter-planetario
 <h2>
      - Programa que convierte diferentes tipo de divisas a pesos argentinos y viceversa. 
 </h2>
